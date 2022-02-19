@@ -61,7 +61,6 @@ export const WORDS = [
   'demon',
   'angel',
   'water',
-  'spirit',
   'judah',
   'house',
   'shall',

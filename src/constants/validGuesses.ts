@@ -13026,7 +13026,6 @@ export const VALID_GUESSES = [
   'demon',
   'angel',
   'water',
-  'spirit',
   'judah',
   'house',
   'shall',
